@@ -1,0 +1,46 @@
+Estação: 82890 - ARCOVERDE - PE 
+Latitude: -8.41 
+Longitude: -37.08
+altitude: 680.70m 
+
+Estação: 82886 - CABROBO - PE 
+Latitude: -8.51 
+Longitude: -39.33
+altitude: 341.46m 
+Situação: Operante
+
+Estação: 82893 - GARANHUNS - PE 
+Latitude: -8.88 
+Longitude: -36.51
+altitude: 822.76m 
+Situação: Operante
+
+Estação: 82753 - OURICURI - PE 
+Latitude: -7.9 
+Longitude: -40.04
+altitude: 459.28m 
+Situação: Operante
+
+Estação: 82983 - PETROLINA - PE 
+Latitude: -9.36 
+Longitude: -40.46
+altitude: 370.46m 
+Situação: Operante
+
+Estação: 82900 - RECIFE (CURADO) - PE 
+Latitude: -8.05 
+Longitude: -34.95
+altitude: 10.00m 
+Situação: Operante
+
+Estação: 82797 - SURUBIM - PE 
+Latitude: -7.83 
+Longitude: -35.71
+altitude: 418.32m 
+Situação: Operante
+
+Estação: 82789 - TRIUNFO - PE 
+Latitude: -7.81 
+Longitude: -38.11
+altitude: 1105.00m 
+Situação: Operante
